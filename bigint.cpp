@@ -4,7 +4,6 @@ to store the digits.  The class overloads the operators for addition, subtractio
 division, modulo, increment, and equality. It also has functions to calculate the Fibonacci
 and Factorial of a BigInt using tail recursion.
 */
-
 #include <iostream>
 #include <vector>
 #include <iomanip>
